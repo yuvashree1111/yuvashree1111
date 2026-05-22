@@ -70,8 +70,8 @@
 | 🆕 [Market Analysis – Client Project](https://github.com/yuvashree1111/market_analysis_client) | Python, SQL, Power BI, EDA | Client Project |
 | 🛒 [Blinkit Sales Analysis](https://github.com/yuvashree1111/Blinkit-Project) | Python, SQL, Power BI, Excel | Analysis |
 | 🏥 [Healthcare Dashboard](https://github.com/yuvashree1111/Healthcare_dashboard) | Power BI, DAX, Data Modeling | Dashboard |
-| 👥 [HR Analysis Dashboard](https://github.com/yuvashree1111/Project_HR_Analysis) | Power BI, CSV, PowerPoint | Dashboard |
-| 🩺 [Medical Data History](https://github.com/yuvashree1111/Proj_Medical_Data_History) | SQL, Data Analysis, Reporting | SQL Project |
+| 👥 [HR Analysis Dashboard](https://github.com/yuvashree1111/Project_HR_Analysis) | Power BI, CSV, PowerPoint | Capstone Project Dashboard|
+| 🩺 [Medical Data History](https://github.com/yuvashree1111/Proj_Medical_Data_History) | SQL, Data Analysis, Reporting | Capstone Project SQL |
 
 ---
 
