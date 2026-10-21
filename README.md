@@ -67,7 +67,7 @@
 
 | 🗂️ Project | 🔧 Tools | 🏷️ Type |
 |---|---|---|
-| 🍽️ [Restaurant Operation Analysis – Cognifyz](https://github.com/yuvashree1111/YOUR-REPO-NAME) | Python, Pandas, openpyxl, Seaborn, SQL, Excel | Client Project |
+| 🍽️ [Restaurant Operation Analysis – Cognifyz](https://github.com/yuvashree1111/Cognifyz_Project) | Python, Pandas, openpyxl, Seaborn, SQL, Excel | Client Project |
 | 🆕 [Market Analysis – Client Project](https://github.com/yuvashree1111/market_analysis_client) | Python, SQL, Power BI, EDA | Client Project |
 | 🛒 [Blinkit Sales Analysis](https://github.com/yuvashree1111/Blinkit-Project) | Python, SQL, Power BI, Excel | Analysis |
 | 🏥 [Healthcare Dashboard](https://github.com/yuvashree1111/Healthcare_dashboard) | Power BI, DAX, Data Modeling | Dashboard |
