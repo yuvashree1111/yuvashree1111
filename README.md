@@ -8,7 +8,7 @@
 
 ### 👋 Hi there! I'm Yuva Shree
 
-🎯 Aspiring Data Analyst &nbsp;|&nbsp; 📍 Tamil Nadu, India
+🎯Data Analyst &nbsp;|&nbsp; 📍 Tamil Nadu, India
 
 > *Turning raw data into meaningful business decisions*
 
@@ -76,8 +76,10 @@
 ---
 
 ### 💼 Experience
+**🏢 Cognifyz IT Solutions Pvt Ltd AI** — *Data Analyst Intern* &nbsp;`July 2026 – Aug 2026`
+> Building client-facing Power BI dashboards and automating weekly reporting with Python (Pandas), cutting manual processing time by ~40% across market study datasets.
 
-**🏢 Rubixe AI Solutions** — *Data Analyst Intern* &nbsp;`April 2026 – Present`
+**🏢 Rubixe AI Solutions** — *Data Analyst Intern* &nbsp;`Dec 2025 – June 2026`
 > Working with market study datasets to identify trends using SQL, Python & Power BI. Assisting in dashboard preparation and analytical reporting.
 
 **🏢 EatGood Technologies Pvt Ltd** — *Site Head – Operations* &nbsp;`May 2025 – Oct 2025`
