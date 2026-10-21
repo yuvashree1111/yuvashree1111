@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=1D9E75&height=200&section=header&text=Yuva%20Shree&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20Data%20Analyst&descAlignY=58&descColor=ffffff)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=1D9E75&height=200&section=header&text=Yuva%20Shree&fontSize=60&fontColor=ffffff&fontAlignY=38&desc%20Data%20Analyst&descAlignY=58&descColor=ffffff)
 
 </div>
 
